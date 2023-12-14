@@ -2,7 +2,7 @@ package utilities;
 
 public class Constants {
 	
-	public static final String CUR_DIR = System.getProperty("user/ubhada001c" + "");
+	public static final String CUR_DIR = System.getProperty("user.dir" + "");
 
 	public static final String SCREENSHOTS_DRECTORY_PATH = CUR_DIR + "/screenshots/";
 
